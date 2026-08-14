@@ -54,16 +54,16 @@ The project uses three raw CSV files containing Udemy course data and one cleane
 
 The original source files are preserved in the <code>Data/Raw_Data</code> folder.
 
-- [Raw Dataset 1](Data/Raw_Data/REPLACE_WITH_FILENAME.csv)
-- [Raw Dataset 2](Data/Raw_Data/REPLACE_WITH_FILENAME.csv)
-- [Raw Dataset 3](Data/Raw_Data/REPLACE_WITH_FILENAME.csv)
-- [Raw Dataset 4](Data/Raw_Data/REPLACE_WITH_FILENAME.CSV)
+- [Business Finance Courses](Data/Raw%20Data/3.1-data-sheet-udemy-courses-business-courses.csv)
+- [Graphic Design Courses](Data/Raw%20Data/3.1-data-sheet-udemy-courses-design-courses.csv)
+- [Musical Instruments Courses](Data/Raw%20Data/3.1-data-sheet-udemy-courses-music-courses.csv)
+- [Web Development Courses](Data/Raw%20Data/3.1-data-sheet-udemy-courses-web-development.csv)
 
 <h3>Cleaned Data</h3>
 
 The cleaned and standardized dataset used for the analysis is available in the <code>Data/Cleaned_Data</code> folder.
 
-- [Cleaned Udemy Dataset](Data/Cleaned_Data/REPLACE_WITH_FILENAME.csv)
+- [Cleaned Udemy Course Dataset](Data/Cleaned%20Data/3.2%20Data%20Cleaning.xlsx)
 
 <h2>🧹 DATA PREPARATION: Udemy Course Data</h2>
 
