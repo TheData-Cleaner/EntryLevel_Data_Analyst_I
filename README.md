@@ -164,7 +164,7 @@ The original project recommended increasing prices for Web Development courses, 
 
 The original Data Analyst I report documents the business problem, data-cleaning process, Google Sheets and Tableau visualizations, analytical findings, and final recommendation developed during the EntryLevel program.
 
-[View the Original Data Analyst I Report](REPLACE_WITH_PDF_LINK)
+[View the Original Data Analyst I Report](https://github.com/TheData-Cleaner/EntryLevel_Data_Analyst_I/blob/main/Entry%20Level%20Udemy%20Courses%20Report.pdf)
 
 <h2>🔎 KEY FINDINGS</h2>
 
